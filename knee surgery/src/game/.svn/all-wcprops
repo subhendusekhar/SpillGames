@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/27_KneeSurgery/!svn/ver/53/Game/src/game
+END
+GMGSound.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/27_KneeSurgery/!svn/ver/1/Game/src/game/GMGSound.as
+END
+SoundManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/27_KneeSurgery/!svn/ver/57/Game/src/game/SoundManager.as
+END
+PlayerData.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/27_KneeSurgery/!svn/ver/59/Game/src/game/PlayerData.as
+END
+GameLogic.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/27_KneeSurgery/!svn/ver/57/Game/src/game/GameLogic.as
+END
+SurgeryStepProperties.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/27_KneeSurgery/!svn/ver/57/Game/src/game/SurgeryStepProperties.as
+END
+SpilAPIManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/27_KneeSurgery/!svn/ver/59/Game/src/game/SpilAPIManager.as
+END
+SurgeryStep.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/27_KneeSurgery/!svn/ver/57/Game/src/game/SurgeryStep.as
+END

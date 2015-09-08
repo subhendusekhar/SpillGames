@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/32_ScoliosisSurgery/!svn/ver/59/Game/src/game
+END
+GMGSound.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/src/game/GMGSound.as
+END
+SoundManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/32_ScoliosisSurgery/!svn/ver/52/Game/src/game/SoundManager.as
+END
+PlayerData.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/32_ScoliosisSurgery/!svn/ver/59/Game/src/game/PlayerData.as
+END
+GameLogic.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/32_ScoliosisSurgery/!svn/ver/59/Game/src/game/GameLogic.as
+END
+SurgeryStepProperties.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/32_ScoliosisSurgery/!svn/ver/59/Game/src/game/SurgeryStepProperties.as
+END
+GMGMusic.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/src/game/GMGMusic.as
+END
+SpilAPIManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/32_ScoliosisSurgery/!svn/ver/59/Game/src/game/SpilAPIManager.as
+END
+SurgeryStep.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/32_ScoliosisSurgery/!svn/ver/50/Game/src/game/SurgeryStep.as
+END

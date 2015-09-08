@@ -1,0 +1,1 @@
+﻿package src.scenes {		import flash.display.MovieClip;	import src.game.SpilAPIManager;	import src.game.SurgeryStep;			public class MC_01 extends SurgeryStep {						public function MC_01() {			SpilAPIManager.sharedSpilAPI().localizeTextField(storyText);		}	}	}

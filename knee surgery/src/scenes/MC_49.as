@@ -1,0 +1,1 @@
+﻿package src.scenes {		import flash.display.MovieClip;	import src.game.SurgeryStep;			public class MC_49 extends SurgeryStep {						public function MC_49() {			animatedBG.mouseEnabled = false;			animatedBG.mouseChildren = false;		}	}	}

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/25_NoseSurgery/!svn/ver/67/Game/src/game
+END
+GMGSound.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/25_NoseSurgery/!svn/ver/31/Game/src/game/GMGSound.as
+END
+SoundManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/25_NoseSurgery/!svn/ver/67/Game/src/game/SoundManager.as
+END
+PlayerData.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/25_NoseSurgery/!svn/ver/69/Game/src/game/PlayerData.as
+END
+GameLogic.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/25_NoseSurgery/!svn/ver/69/Game/src/game/GameLogic.as
+END
+SurgeryStepProperties.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/25_NoseSurgery/!svn/ver/31/Game/src/game/SurgeryStepProperties.as
+END
+GMGMusic.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/25_NoseSurgery/!svn/ver/31/Game/src/game/GMGMusic.as
+END
+SpilAPIManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/25_NoseSurgery/!svn/ver/65/Game/src/game/SpilAPIManager.as
+END
+SurgeryStep.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/25_NoseSurgery/!svn/ver/31/Game/src/game/SurgeryStep.as
+END

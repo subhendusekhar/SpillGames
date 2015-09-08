@@ -1,0 +1,1 @@
+﻿package src.game{	import flash.media.Sound;	public class GMGSound extends Sound	{		public function GMGSound()		{		}	}}

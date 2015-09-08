@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/32_ScoliosisSurgery/!svn/ver/59/Game/src/GLP
+END
+GLPDirector.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/32_ScoliosisSurgery/!svn/ver/59/Game/src/GLP/GLPDirector.as
+END
+GMGDebugger.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/src/GLP/GMGDebugger.as
+END
+SpriteSheet.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/src/GLP/SpriteSheet.as
+END
+GLPScene.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/32_ScoliosisSurgery/!svn/ver/59/Game/src/GLP/GLPScene.as
+END
+GLPDirectorCaller.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/src/GLP/GLPDirectorCaller.as
+END
+GLPApplication.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/src/GLP/GLPApplication.as
+END
+Analytics.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/32_ScoliosisSurgery/!svn/ver/3/Game/src/GLP/Analytics.as
+END
+Animable.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/src/GLP/Animable.as
+END
+AnimationList.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/src/GLP/AnimationList.as
+END

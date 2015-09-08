@@ -1,0 +1,1 @@
+﻿package src.elements {		import flash.display.MovieClip;			public class MultiSliderPoint extends MovieClip {						public function MultiSliderPoint() {			// constructor code		}					}	}

@@ -1,0 +1,1 @@
+﻿package src.scenes {		import flash.display.MovieClip;	import src.game.SurgeryStep;	import src.game.SoundManager;			public class MC_15 extends SurgeryStep {						public function MC_15() {			SoundManager.sharedManager().playSound(new SND_UseScalpelShort());		}	}	}

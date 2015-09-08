@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api
+END
+User.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/User.as
+END
+AlbumService.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/AlbumService.as
+END
+PortalMethods.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/PortalMethods.as
+END
+SpilGamesServices.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/SpilGamesServices.as
+END
+FriendService.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/FriendService.as
+END
+UserInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/UserInfo.as
+END
+DataService.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/DataService.as
+END
+ScoreService.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/ScoreService.as
+END
+DateService.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/DateService.as
+END
+BusinessRequirements.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/BusinessRequirements.as
+END
+AvatarService.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/AvatarService.as
+END
+AwardsService.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/AwardsService.as
+END
+BuildVersion.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/BuildVersion.as
+END
+UserData.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/UserData.as
+END
+FriendStatus.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/32_ScoliosisSurgery/!svn/ver/1/Game/com/spilgames/api/FriendStatus.as
+END
